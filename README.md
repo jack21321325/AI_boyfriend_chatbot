@@ -6,9 +6,8 @@ This project uses Groq API with customized Prompt Engineering to create a role-p
 
 ## Demo
 
-Coming soon.
-
-(Hugging Face Spaces link will be added after deployment.)
+Hugging Face Space:
+https://jack0129-ai-boyfriend-chatbot.hf.space
 
 ---
 
